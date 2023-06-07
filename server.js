@@ -15,4 +15,4 @@ app.listen(3000,() => {
     console.log("Hello, LA. I'm listening...")
 })
 
-// Tip Calculatorr
+// Tip Calculator
